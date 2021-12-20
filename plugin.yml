@@ -1,0 +1,8 @@
+---
+name: CustomScoreboards
+author: SigitGamers
+api: 4.0.0
+version: 1.0
+main: SigitGamers\CustomScoreboards\Main
+description: "CustomScoreboard for Your PMMP server!"
+...
