@@ -1,0 +1,17 @@
+---
+# This is Config CustomScoreboard! 
+# You can edit this Scoreboard Like for you!
+
+#Title Scoreboard
+#You can set Title Like Hypixel Color
+title:
+ - "§l§aName Server"
+ - "§l§bName Server"
+ - "§l§cName Server"
+ - "§l§dName Server"
+ - "§l§eName Server"
+ - "§l§7Name Server"
+#Lines on Scoreboard
+lines: 
+ 
+...
